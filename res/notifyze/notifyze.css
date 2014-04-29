@@ -29,6 +29,8 @@
 	border-radius: 4px;
 }
 .b_notifyze__el .close {
-  float: right;
-  cursor: pointer;
+	float: right;
+	cursor: pointer;
+	border: 0;
+	background: transparent;
 }
