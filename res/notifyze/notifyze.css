@@ -1,0 +1,34 @@
+// Simple side nofitication
+// cc Alex Buznik, 2013
+// demo: http://jsfiddle.net/beshur/mr3DV/
+.b_notifyze {
+	position: fixed;
+	z-index: 110;
+	top: 0;
+	right: 0;
+}
+
+.b_notifyze__el {
+	position: relative;
+	z-index: 110;
+	display: none;
+	float: right;
+	clear: both;
+	width: 200px;
+
+	margin: 10px;
+	padding: 6px 14px;
+
+	color: #fff;
+	font-size: 11px;
+	line-height: 150%;
+
+	background: url(../images/green60.png) repeat;
+	background: rgba(64, 170, 0, .6);
+
+	border-radius: 4px;
+}
+.b_notifyze__el .close {
+  float: right;
+  cursor: pointer;
+}
