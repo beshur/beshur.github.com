@@ -1,7 +1,9 @@
 # Hello, this is Alex Buznik
 
-I am a web-developer from Ukraine.\
-Also known as [@beshur](https://github.com/beshur/) on Github and other places.\
+I am a web-developer from Ukraine.
+
+Also known as [@beshur](https://github.com/beshur/) on Github and other places.
+
 Working on different stuff using node.js, Backbone.js etc.
 
 ## Some of the projects I relate to on Github:
