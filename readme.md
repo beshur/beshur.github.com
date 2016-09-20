@@ -11,7 +11,7 @@ Working on different stuff using node.js, Backbone.js etc.
 - [wp-jouele](https://github.com/beshur/wp-jouele) - a Wordpress plugin for Jouele audio-player
 - [learn-it-ukraine](https://beshur.github.io/learn-it-ukraine/) - a list of useful resources for learning development
 - [getpass](https://beshur.github.io/getpass/) - a simple password generator for personal use
-- [lifeChart](http://beshur.github.io/lifeChart/) - a small calendar displaying the average weeks count for the current user's life
+- [lifeChart](https://beshur.github.io/lifeChart/) - a small calendar displaying the average weeks count for the current user's life
 
 ## More
 Contacts can be found on [my site](https://buznik.net/).
