@@ -12,6 +12,7 @@ Working on different stuff using node.js, Backbone.js etc.
 - [learn-it-ukraine](https://beshur.github.io/learn-it-ukraine/) - a list of useful resources for learning development
 - [getpass](https://beshur.github.io/getpass/) - a simple password generator for personal use
 - [lifeChart](https://beshur.github.io/lifeChart/) - a small calendar displaying the average weeks count for the current user's life
+- [9gag Pics Only](https://beshur.github.io/9gag-pics-only/) - a Chrome extension to hide all posts except static images on 9gag
 
 ## More
 Contacts can be found on [my site](https://buznik.net/).
