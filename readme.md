@@ -9,6 +9,8 @@ Working on different stuff using node.js, Backbone.js etc.
 ## Some of the projects I relate to on Github:
 - [Stoplay](http://stoplay.github.io/) - a collaborative effort on a Google Chrome extension to control in-browser media playback - can be used to stop/play your music/videos etc.
 - [Webhookbot](https://beshur.github.io/webhookbot) - a bot for Telegram and FB Messenger that creates the webhooks for you and proxies the messages. 
+- [Table Status](https://github.com/beshur/TableStatusWeb) - a web-app to display a couple widgets for my home (calendar, photos and notes)
+- [PlasticPlayer](https://github.com/beshur/PlasticPlayer) - my take on Brendan Dawes' Plastic Player, using original code for Raspberry Pi and Arduino 
 - [wp-jouele](https://github.com/beshur/wp-jouele) - a Wordpress plugin for Jouele audio-player
 - [learn-it-ukraine](https://beshur.github.io/learn-it-ukraine/) - a list of useful resources for learning development
 - [getpass](https://beshur.github.io/getpass/) - a simple password generator for personal use
