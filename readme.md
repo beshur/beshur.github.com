@@ -2,7 +2,9 @@
 
 I am a web-developer from Ukraine.
 
-Working on different stuff using node.js, Backbone.js etc.
+Working on different stuff using Marionette, Backbone.js, node.js etc.
+
+Tinkering with Arduino/C, Java.
 
 ### Highlights
 
