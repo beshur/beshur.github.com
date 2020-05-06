@@ -21,13 +21,14 @@ jobs:
     - run: npm run build
     - name: Commit files
       run: |
-        git stash
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git fetch
         git checkout gh-pages
-        git stash pop
+        git add index.html
         git commit -am "Update index.html"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
+        branch: 'gh-pages'
         github_token: ${{ secrets.GITHUB_TOKEN }}
