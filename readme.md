@@ -26,4 +26,3 @@ Some of the projects I own or relate to on Github:
 Contacts can be found on [my site](https://buznik.net/).
 
 
-
