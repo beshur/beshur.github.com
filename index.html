@@ -11,18 +11,15 @@
       padding: 0;
       min-height: 100%;
     }
-    html { font-size: 100%; }
+    html {
+      font-size: 16px;
+    }
 
     body {
       font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
       font-size: 1rem;
       line-height: 1.5;
       color: #373a3c;
-    }
-    @media screen and (max-width: 768px) {
-      html {
-        font-size: 80%;
-      }
     }
     .container {
       margin: 0 4rem;
@@ -54,9 +51,23 @@
     h1 a {
       border-bottom-width: 3px;
     }
+    ul {
+      padding-left: 0;
+    }
     ul li {
+      list-style-type: none;
+      margin-left: 0;
+      margin-bottom: 15px;
+    }
+    ul li h4 {
       margin-bottom: 5px;
     }
+    @media screen and (max-width: 768px) {
+      .container {
+        margin: 0 1rem;
+      }
+    }
+
   </style>
 </head>
 
@@ -67,21 +78,34 @@
 <p>Working on different stuff using Marionette, Backbone.js, node.js etc.</p>
 <p>Tinkering with Arduino/C, Java.</p>
 <h3 id="highlights">Highlights</h3>
-<p>Some of the projects I own or relate to on Github:</p>
+<p>Some of the projects I own or relate to on Github (starting with most recent):</p>
 <ul>
-<li><a href="https://github.com/beshur/arduinoBtCar">ArduinoBtCar</a> - an Android demo application to control an Arduino car via Bluetooth</li>
-<li><a href="https://github.com/beshur/TraffcLight">Toy TraffcLight</a> - a simple Arduino traffic light (<a href="https://buznik.net/blog/all/traffic-light-with-arduino-and-lego-duplo/">blog post</a>)</li>
-<li><a href="https://github.com/beshur/TableStatusWeb">Table Status</a> - a web-app to display a couple widgets for my home (calendar, photos and notes)</li>
-<li><a href="https://github.com/beshur/PlasticPlayer">PlasticPlayer</a> - my take on Brendan Dawes&#39; Plastic Player, using original code for Raspberry Pi and Arduino</li>
-<li><a href="https://github.com/beshur/diUpcomingShows">diUpcomingShows</a> - DI.FM live shows notifications for <a href="https://di.fm/discord">Discord</a> (and potentially for some other services later)</li>
-<li><a href="https://beshur.github.io/diRandomizer">diRandomizer</a> - DI.FM random channel selector</li>
-<li><a href="http://stoplay.github.io/">Stoplay</a> - a collaborative effort on a Google Chrome extension to control in-browser media playback - can be used to stop/play your music/videos etc.</li>
-<li><a href="https://beshur.github.io/webhookbot">Webhookbot</a> - a bot for Telegram and FB Messenger that creates the webhooks for you and proxies the messages.</li>
-<li><a href="https://github.com/beshur/wp-jouele">wp-jouele</a> - a Wordpress plugin for Jouele audio-player</li>
-<li><a href="https://beshur.github.io/learn-it-ukraine/">learn-it-ukraine</a> - a list of useful resources for learning development (abandoned archived project)</li>
-<li><a href="https://beshur.github.io/getpass/">getpass</a> - a simple password generator for personal use</li>
-<li><a href="http://beshur.github.io/lifeChart/">lifeChart</a> - a small calendar displaying the average weeks count for the current user&#39;s life</li>
-<li><a href="https://beshur.github.io/9gag-pics-only/">9gag Pics Only</a> - a Chrome extension to hide all posts except static images on 9gag</li>
+<li><h4 id="arduinobtcar"><a href="https://github.com/beshur/arduinoBtCar">ArduinoBtCar</a></h4>
+  an Android demo application to control an Arduino car via Bluetooth</li>
+<li><h4 id="toy-traffclight"><a href="https://github.com/beshur/TraffcLight">Toy TraffcLight</a></h4>
+  a simple Arduino traffic light (<a href="https://buznik.net/blog/all/traffic-light-with-arduino-and-lego-duplo/">blog post</a>)</li>
+<li><h4 id="table-status"><a href="https://github.com/beshur/TableStatusWeb">Table Status</a></h4>
+  a web-app to display a couple widgets for my home (calendar, photos and notes)</li>
+<li><h4 id="plasticplayer"><a href="https://github.com/beshur/PlasticPlayer">PlasticPlayer</a></h4>
+  my take on Brendan Dawes&#39; Plastic Player, using original code for Raspberry Pi and Arduino</li>
+<li><h4 id="diupcomingshows"><a href="https://github.com/beshur/diUpcomingShows">diUpcomingShows</a></h4>
+  DI.FM live shows notifications for <a href="https://di.fm/discord">Discord</a> (and potentially for some other services later)</li>
+<li><h4 id="dirandomizer"><a href="https://beshur.github.io/diRandomizer">diRandomizer</a></h4>
+  DI.FM random channel selector</li>
+<li><h4 id="stoplay"><a href="http://stoplay.github.io/">Stoplay</a></h4>
+  a collaborative effort on a Google Chrome extension to control in-browser media playback - can be used to stop/play your music/videos etc.</li>
+<li><h4 id="webhookbot"><a href="https://beshur.github.io/webhookbot">Webhookbot</a></h4>
+  a bot for Telegram and FB Messenger that creates the webhooks for you and proxies the messages.</li>
+<li><h4 id="wp-jouele"><a href="https://github.com/beshur/wp-jouele">wp-jouele</a></h4>
+  a Wordpress plugin for Jouele audio-player</li>
+<li><h4 id="learn-it-ukraine-archivedobsolete"><a href="https://beshur.github.io/learn-it-ukraine/">learn-it-ukraine</a> (archived/obsolete)</h4>
+  a list of useful resources for learning development</li>
+<li><h4 id="getpass"><a href="https://beshur.github.io/getpass/">getpass</a></h4>
+  a simple password generator for personal use</li>
+<li><h4 id="lifechart"><a href="http://beshur.github.io/lifeChart/">lifeChart</a></h4>
+  a small calendar displaying the average weeks count for the current user&#39;s life</li>
+<li><h4 id="9gag-pics-only"><a href="https://beshur.github.io/9gag-pics-only/">9gag Pics Only</a></h4>
+  a Chrome extension to hide all posts except static images on 9gag</li>
 </ul>
 <h3 id="more">More</h3>
 <p>Contacts can be found on <a href="https://buznik.net/">my site</a>.</p>
