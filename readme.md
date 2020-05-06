@@ -9,6 +9,7 @@ Working on different stuff using node.js, Backbone.js etc.
 Some of the projects I own or relate to on Github:
 
 - [ArduinoBtCar](https://github.com/beshur/arduinoBtCar) - an Android demo application to control an Arduino car via Bluetooth
+- [Toy TraffcLight](https://github.com/beshur/TraffcLight) - a simple Arduino traffic light ([blog post](https://buznik.net/blog/all/traffic-light-with-arduino-and-lego-duplo/))
 - [Table Status](https://github.com/beshur/TableStatusWeb) - a web-app to display a couple widgets for my home (calendar, photos and notes)
 - [PlasticPlayer](https://github.com/beshur/PlasticPlayer) - my take on Brendan Dawes' Plastic Player, using original code for Raspberry Pi and Arduino
 - [diUpcomingShows](https://github.com/beshur/diUpcomingShows) - DI.FM live shows notifications for [Discord](https://di.fm/discord) (and potentially for some other services later)
