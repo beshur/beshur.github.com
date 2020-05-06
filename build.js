@@ -33,7 +33,7 @@ function convertText() {
 
 
 function replaceInTpl(content) {
-  fs.readFile('index.html.tpl', 'utf8', function (err,data) {
+  fs.readFile('tpl/index.html.tpl', 'utf8', function (err,data) {
     if (err) {
       return console.log(err);
     }
@@ -42,7 +42,7 @@ function replaceInTpl(content) {
 
     fs.writeFile('_index.html', result, 'utf8', function (err) {
        if (err) return console.log(err);
-       console.log('Written index.html');
+       console.log('Wrote _index.html');
     });
   });
 
