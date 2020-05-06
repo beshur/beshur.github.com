@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Build index.html
 
 on:
   push:
@@ -25,7 +25,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git fetch
         git checkout master
-        git add index.html
+        mv _index.html index.html
         git commit -am "Update index.html"
     - name: Push changes
       uses: ad-m/github-push-action@master

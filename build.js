@@ -40,7 +40,7 @@ function replaceInTpl(content) {
     const result = data.replace(/%%/g, content);
     console.log('HTML result', result)
 
-    fs.writeFile('index.html', result, 'utf8', function (err) {
+    fs.writeFile('_index.html', result, 'utf8', function (err) {
        if (err) return console.log(err);
        console.log('Written index.html');
     });

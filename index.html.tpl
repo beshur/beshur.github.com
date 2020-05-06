@@ -11,18 +11,15 @@
       padding: 0;
       min-height: 100%;
     }
-    html { font-size: 100%; }
+    html {
+      font-size: 16px;
+    }
 
     body {
       font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
       font-size: 1rem;
       line-height: 1.5;
       color: #373a3c;
-    }
-    @media screen and (max-width: 768px) {
-      html {
-        font-size: 80%;
-      }
     }
     .container {
       margin: 0 4rem;
@@ -54,9 +51,23 @@
     h1 a {
       border-bottom-width: 3px;
     }
+    ul {
+      padding-left: 0;
+    }
     ul li {
+      list-style-type: none;
+      margin-left: 0;
+      margin-bottom: 15px;
+    }
+    ul li h4 {
       margin-bottom: 5px;
     }
+    @media screen and (max-width: 768px) {
+      .container {
+        margin: 0 1rem;
+      }
+    }
+
   </style>
 </head>
 

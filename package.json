@@ -1,8 +1,8 @@
 {
   "name": "beshur.github.com",
   "version": "1.0.0",
-  "description": "I am a web-developer from Ukraine.",
-  "main": "index.js",
+  "description": "I am a web-developer from Ukraine, this is my github profile page.",
+  "main": "build.js",
   "scripts": {
     "build": "./build.js"
   },
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/beshur/beshur.github.com.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["personal", "website", "developer"],
+  "author": "Alex Buznik",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/beshur/beshur.github.com/issues"
