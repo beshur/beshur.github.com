@@ -1,0 +1,23 @@
+{
+  "name": "beshur.github.com",
+  "version": "1.0.0",
+  "description": "I am a web-developer from Ukraine.",
+  "main": "index.js",
+  "scripts": {
+    "build": "./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beshur/beshur.github.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beshur/beshur.github.com/issues"
+  },
+  "homepage": "https://github.com/beshur/beshur.github.com#readme",
+  "devDependencies": {
+    "marked": "^1.0.0"
+  }
+}
