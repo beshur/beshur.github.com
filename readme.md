@@ -10,6 +10,8 @@ Tinkering with Arduino/C, Java.
 
 Some of the projects I own or relate to on Github (starting with most recent):
 
+- #### [Spanish Cards](https://beshur.github.io/spanish-cards/)
+    a Svelte flashcard app to practice Spanish grammar and vocabulary, including a B1 exam-prep mode
 - #### [PlasticPlayer](https://github.com/beshur/PlasticPlayer)
     my take on Brendan Dawes' Plastic Player, using original code for Raspberry Pi and Arduino
 - #### [Stoplay](http://stoplay.github.io/)
