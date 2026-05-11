@@ -12,11 +12,11 @@ Some of the projects I own or relate to on Github (starting with most recent):
 
 - #### [Spanish Cards](https://beshur.github.io/spanish-cards/)
     a Svelte flashcard app to practice Spanish grammar and vocabulary, including a B1 exam-prep mode
-- #### [PlasticPlayer](https://github.com/beshur/PlasticPlayer)
+- #### [PlasticPlayer](https://github.com/beshur/PlasticPlayer) (archived)
     my take on Brendan Dawes' Plastic Player, using original code for Raspberry Pi and Arduino
 - #### [Stoplay](http://stoplay.github.io/)
     a collaborative effort on a Google Chrome extension to control in-browser media playback - can be used to stop/play your music/videos etc.
-- #### [Webhookbot](https://beshur.github.io/webhookbot)
+- #### [Webhookbot](https://beshur.github.io/webhookbot) (archived)
     a bot for Telegram and FB Messenger that creates the webhooks for you and proxies the messages.
 - #### [getpass](https://beshur.github.io/getpass/)
     a simple password generator for personal use
