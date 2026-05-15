@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/beshur/beshur.github.com#readme",
   "devDependencies": {
-    "marked": "^1.0.0"
+    "marked": "^4.0.10"
   }
 }
